@@ -1,6 +1,6 @@
 * # Tutorials
     * [Visualice PWA on cellphone](#pwa_on_phone)
-
+    * [Improving on IOS](#ios_improve)
 ---
 
 <span id="pwa_on_phone"></span>
@@ -23,3 +23,9 @@
 If the cellphone prompts an alert to allow permissions, give acess
 
 ---
+
+<span id="ios_improve"></span>
+#### Improving on IOS
+By default, IOS still not accepts some features of a PWA because they're "not" standards, eventually they will add that new features in order to make them have the same functionality as on Android.
+
+This **[entrance](https://medium.com/appscope/designing-native-like-progressive-web-apps-for-ios-1b3cdda1d0e8)** can help to fix that issues on IOS.
